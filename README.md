@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hey there, I'm Nayeem Ur Rehman
 
-<!--
-**NayeemUrRehman/NayeemUrRehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer | Problem Solver**
 
-Here are some ideas to get you started:
+💻 I turn ideas into fast, clean, and scalable web applications.  
+🔴 Open to freelance & remote opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🚀 Currently learning: **Cloud Architecture & DevOps**
+- 🔧 Focused on: **Backend / Full Stack / AWS**
+- 📧 Reach me: [nayeemurrehman@example.com](mailto:your-email) | [Portfolio](#)
+- 🎯 Fun fact: *Started with JavaScript, now building serverless empires ☁️*
+
+---
+
+## ⚡ Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NayeemUrRehman&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayeemUrRehman&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+---
+
+## 📚 Notable Projects
+
+- **[meesho-profit-calc](https://github.com/NayeemUrRehman/meesho-profit-calc)** - Meesho seller profit calculator
+- **[serverless-stack-api](https://github.com/NayeemUrRehman/serverless-stack-api)** - Demo serverless application using AWS AppSync
+- **[concox](https://github.com/NayeemUrRehman/concox)** - Simulator & device adapter for Concox IoT devices
+- **[agri-lang-api-python](https://github.com/NayeemUrRehman/agri-lang-api-python)** - Agricultural language API for farming applications
+- **[finance-for-kids](https://github.com/NayeemUrRehman/finance-for-kids)** - Financial literacy application
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+⚡ *"Good code is like good music — it flows, it has rhythm, and it speaks."*
+
+</div>
