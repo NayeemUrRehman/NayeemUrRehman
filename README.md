@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** with a passion for building scalable, efficient applications and cloud-native solutions. With expertise across multiple tech stacks, I specialize in crafting seamless user experiences and robust backend systems.
+I'm a **Could Full-Stack Developer** with a passion for building scalable, efficient applications and cloud-native solutions. With expertise across multiple tech stacks, I specialize in crafting seamless user experiences and robust backend systems.
 
 - 🎯 **Specialization**: Full-Stack Development, Serverless Architecture, Cloud Infrastructure
 - 🚀 **Currently Working On**: Advanced cloud patterns and DevOps optimization
